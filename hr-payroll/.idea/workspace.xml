@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="400382c8-eb6a-465d-899a-d2d06a6a667a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../hr-eureka-server/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-eureka-server/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-eureka-server/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-eureka-server/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-eureka-server/target/classes/com/devsuperior/hreurekaserver/HrEurekaServerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-eureka-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-eureka-server/src/main/java/com/devsuperior/hreurekaserver/HrEurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-eureka-server/src/main/java/com/devsuperior/hreurekaserver/HrEurekaServerApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
