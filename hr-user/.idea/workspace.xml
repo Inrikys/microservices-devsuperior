@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32cce54e-0980-4b3d-8ff5-f32b396c0363" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devsuperior/hruser/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devsuperior/hruser/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devsuperior/hruser/resources/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-payroll/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/devsuperior/hruser/HrUserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devsuperior/hruser/HrUserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devsuperior/hruser/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devsuperior/hruser/entities/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="HrUserApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">

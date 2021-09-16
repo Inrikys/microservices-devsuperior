@@ -1,6 +1,7 @@
 package com.devsuperior.hruser.entities;
 
 import javax.persistence.*;
+import javax.validation.constraints.Email;
 import java.io.Serializable;
 import java.util.HashSet;
 import java.util.Objects;
@@ -15,6 +16,9 @@ public class User implements Serializable {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String name;
+
+    @Column(unique = true)
+    @Email
     private String email;
     private String password;
 
