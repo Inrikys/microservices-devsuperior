@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="400382c8-eb6a-465d-899a-d2d06a6a667a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../hr-config-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-config-server/src/main/java/com/devsuperior/hrconfigserver/HrConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-config-server/src/main/java/com/devsuperior/hrconfigserver/HrConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-worker/src/main/resources/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/target/classes/com/devsuperior/hrworker/resources/WorkerResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/target/classes/com/devsuperior/hrworker/resources/WorkerResource.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
