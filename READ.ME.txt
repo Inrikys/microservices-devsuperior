@@ -23,11 +23,11 @@ ADD ./target/hr-config-server-0.0.1-SNAPSHOT.jar hr-config-server.jar
 ENTRYPOINT ["java","-jar","/hr-config-server.jar"]
 ``` 
 ```
-mvnw clean package
+./mvnw clean package
 
 docker build -t hr-config-server:v1 .
 
-docker run -p 8888:8888 --name hr-config-server --network hr-net -e GITHUB_USER=acenelio -e GITHUB_PASS= hr-config-server:v1
+docker run -p 8888:8888 --name hr-config-server --network hr-net -e GITHUB_USER=inrikys -e GITHUB_PASS= hr-config-server:v1
 ```
 
 ## hr-eureka-server
@@ -58,6 +58,7 @@ mvnw clean package -DskipTests
 
 docker build -t hr-worker:v1 .
 
+// P maiúsculo gera porta aleatória
 docker run -P --network hr-net hr-worker:v1
 ```
 

@@ -1,0 +1,4 @@
+com\devsuperior\hrworker\HrWorkerApplication.class
+com\devsuperior\hrworker\repositories\WorkerRepository.class
+com\devsuperior\hrworker\resources\WorkerResource.class
+com\devsuperior\hrworker\entities\Worker.class
