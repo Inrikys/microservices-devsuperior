@@ -1,0 +1,6 @@
+com\devsuperior\hruser\HrUserApplication.class
+com\devsuperior\hruser\entities\User.class
+com\devsuperior\hruser\repositories\UserRepository.class
+com\devsuperior\hruser\resources\UserResource.class
+com\devsuperior\hruser\config\AppConfig.class
+com\devsuperior\hruser\entities\Role.class
