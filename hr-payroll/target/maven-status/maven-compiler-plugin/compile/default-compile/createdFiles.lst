@@ -1,0 +1,7 @@
+com\devsuperior\hrpayroll\services\PaymentService.class
+com\devsuperior\hrpayroll\resources\PaymentResource.class
+com\devsuperior\hrpayroll\HrPayrollApplication.class
+com\devsuperior\hrpayroll\entities\Payment.class
+com\devsuperior\hrpayroll\feignclients\WorkerFeignClient.class
+com\devsuperior\hrpayroll\config\AppConfig.class
+com\devsuperior\hrpayroll\entities\Worker.class
