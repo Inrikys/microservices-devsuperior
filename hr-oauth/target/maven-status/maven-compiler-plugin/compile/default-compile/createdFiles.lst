@@ -1,0 +1,9 @@
+com\devsuperior\hroauth\entities\Role.class
+com\devsuperior\hroauth\entities\User.class
+com\devsuperior\hroauth\config\AuthorizationServerConfig.class
+com\devsuperior\hroauth\feignclients\UserFeignClient.class
+com\devsuperior\hroauth\config\AppConfig.class
+com\devsuperior\hroauth\config\SecurityConfig.class
+com\devsuperior\hroauth\resources\UserResource.class
+com\devsuperior\hroauth\HrOauthApplication.class
+com\devsuperior\hroauth\services\UserService.class

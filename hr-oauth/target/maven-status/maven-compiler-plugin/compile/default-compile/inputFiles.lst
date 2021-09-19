@@ -1,0 +1,9 @@
+C:\workspace\ws-devsuperior\microservices\hr-oauth\src\main\java\com\devsuperior\hroauth\config\AppConfig.java
+C:\workspace\ws-devsuperior\microservices\hr-oauth\src\main\java\com\devsuperior\hroauth\services\UserService.java
+C:\workspace\ws-devsuperior\microservices\hr-oauth\src\main\java\com\devsuperior\hroauth\config\AuthorizationServerConfig.java
+C:\workspace\ws-devsuperior\microservices\hr-oauth\src\main\java\com\devsuperior\hroauth\entities\Role.java
+C:\workspace\ws-devsuperior\microservices\hr-oauth\src\main\java\com\devsuperior\hroauth\feignclients\UserFeignClient.java
+C:\workspace\ws-devsuperior\microservices\hr-oauth\src\main\java\com\devsuperior\hroauth\HrOauthApplication.java
+C:\workspace\ws-devsuperior\microservices\hr-oauth\src\main\java\com\devsuperior\hroauth\resources\UserResource.java
+C:\workspace\ws-devsuperior\microservices\hr-oauth\src\main\java\com\devsuperior\hroauth\config\SecurityConfig.java
+C:\workspace\ws-devsuperior\microservices\hr-oauth\src\main\java\com\devsuperior\hroauth\entities\User.java
