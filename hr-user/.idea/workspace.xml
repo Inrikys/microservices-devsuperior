@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32cce54e-0980-4b3d-8ff5-f32b396c0363" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-config-server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-config-server/target/hr-config-server-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-config-server/target/hr-config-server-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-config-server/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-config-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-config-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-payroll/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/src/main/resources/bootstrap.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
